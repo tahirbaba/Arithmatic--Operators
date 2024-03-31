@@ -1,5 +1,7 @@
 #! /usr/bin/env node
 
+import inquirer from "inquirer";
+
 // Arithmatic Operators
 // (1) Addition
 console.log(2 + 3);  // in print : 5
